@@ -23,9 +23,9 @@
 <br/>
 
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/richardingwe?style=social)](https://twitter.com/richardingwe)
-[![Linkedin: imthepk](https://img.shields.io/badge/-richard-ingwe-9a91a5190?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-ingwe-9a91a5190/)](https://www.linkedin.com/in/richard-ingwe-9a91a5190/)
-[![GitHub iampawan](https://img.shields.io/github/followers/richardingwe?label=follow&style=social)](https://github.com/richardingwe)
+[![Twitter: richardingwe](https://img.shields.io/twitter/follow/richardingwe?style=social)](https://twitter.com/richardingwe)
+[![Linkedin: richardingwe](https://img.shields.io/badge/-richard-ingwe-9a91a5190?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-ingwe-9a91a5190/)](https://www.linkedin.com/in/richard-ingwe-9a91a5190/)
+[![GitHub richardingwe](https://img.shields.io/github/followers/richardingwe?label=follow&style=social)](https://github.com/richardingwe)
 [![website](https://img.shields.io/badge/PortfolioWebsite-ruingwe.com-2648ff?style=flat-square&logo=google-chrome)](https://ruingwe.com/)
 
 
