@@ -1,23 +1,17 @@
-## Hola, I'm [Richard Ingwe!](https://ruingwe.com) 👋
+## Hola, I'm [Richard Ingwe!](https://ruingwe.com) <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px">
 
-<a href="https://twitter.com/RichardIngwe?s=09">
-  <img align="left" alt="rui's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/richard-ingwe-9a91a5190">
-  <img align="left" alt="rui's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/richardingwe">
-  <img align="left" alt="rui's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/ru_ingwe/">
-  <img align="left" alt="rui's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/richard.ingwejr/">
-  <img align="left" alt="rui's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://behance.net/richardingwe">
-  <img align="left" alt="rui's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
-</a>
+  <a href="https://linkedin.com/in/richard-ingwe-9a91a5190">
+    <img align="left" alt="Richard Ingwe | Linkedin" width="24px" src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/RichardIngwe?s=09">
+    <img align="left" alt="Richard Ingwe | Twitter" width="26px" src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/ru_ingwe/">
+    <img align="left" alt="Richard Ingwe | Instagram" width="24px" src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:richardingwe5@gmail.com">
+    <img align="left" alt="Richard Ingwe | Gmail" width="26px" src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Gmail.svg" />
+  </a>
 
 <br/>
 <br/>
