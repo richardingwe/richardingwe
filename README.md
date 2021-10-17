@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://ruingwe.com">
-    <h2>Hola, I'm Richard Ingwe! <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h2>
+    <h2>Hello, I'm Richard Ingwe! <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h2>
   </a>
 </div>
   
