@@ -1,4 +1,4 @@
-![github-hero](https://raw.githubusercontent.com/richardingwe/richardingwe/main/ruitwitterheader.jpg)
+![github-hero](https://raw.githubusercontent.com/richardingwe/richardingwe/main/ruitwitterheader--2.jpg)
 
 <p align="center">
   <a href="https://github.com/richardingwe?tab=followers">
